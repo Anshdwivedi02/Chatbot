@@ -1,3 +1,5 @@
 streamlit
 requests
 pillow
+streamlit-mic-recorder
+pypdf
